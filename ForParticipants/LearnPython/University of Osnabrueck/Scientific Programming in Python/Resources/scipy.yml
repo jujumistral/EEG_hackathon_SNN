@@ -1,0 +1,17 @@
+name: scipy
+channels:
+- defaults
+dependencies:
+- jupyterlab
+- matplotlib
+- seaborn
+- scipy
+- pooch
+- scikit-learn
+- pandas
+- statsmodels
+- vega_datasets
+- imageio
+- ipywidgets
+- ipympl
+- pip

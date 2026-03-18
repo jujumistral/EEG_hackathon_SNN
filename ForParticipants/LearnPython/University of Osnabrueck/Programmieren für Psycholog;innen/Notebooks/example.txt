@@ -1,6 +1,0 @@
-Access code to file content ran successfully. 
-Message is loading… 
-Message : „Hello stranger. Tell me something about yourself!" 
-End of Message.
-P.S.: If you want to respond to this message,
-write a textfile and load it on StudIP.
